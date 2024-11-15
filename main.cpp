@@ -2,6 +2,6 @@
 
 int main()
 {
-   std::cout<<"\nhello GIT\n";
+   std::cout<<"\nhello GIT. My niew HOME\n";
    return 0;
 }
