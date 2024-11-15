@@ -1,1 +1,1 @@
-Pierwszy commit
+Pierwsza poprawka: przejście na namespace STD.
